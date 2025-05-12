@@ -12,8 +12,12 @@ Niinkuin yllä olevasta kuvasta näkee, salt komennon ``sudo salt '*' state.appl
 Annan ohjeistuksessa olevan komennon ``ssh vagrant@192.168.88.102 -p 2222`` terminaaliin ja katson toimiiko peli.  
 <img width="619" alt="image" src="https://github.com/user-attachments/assets/7fc96c6a-5441-4566-9849-031faf52abf1" />  
 Hurraa, peli lähti toimimaan. 
-Ohjeet olivat äärimmäisen helpot seurata, ja konifuraatiossa asiat oltiin tehty siten oikein, että minulle jäi hyvin vähän itse tehtävää että sain projektin toimimaan.
-
+Ohjeet olivat äärimmäisen helpot seurata, ja konifguraatiossa asiat oltiin tehty siten oikein, että minulle jäi hyvin vähän itse tehtävää että sain projektin toimimaan.
+## Toinen projekti - https://github.com/thsoini/Projekti/blob/main/monitori-salstack.md
+Toiseksi projektiksi valikoitus "thsoini"-nimimerkin tekemä projekti monitorointipinon asennuksesta saltilla.
+Valitettavasti raportilla ei ollut tietoa siitä millä tavalla vagrantfilen kuuluisi olla konfiguroitu tai saltin asennukseta ei ollut mitään dokumentaatiota.  
+Tämä teki raportin seuraamisesta huomattavan hankalaa.  
+Projekti on ilmiselvästi tehty käyttäen laajaa kurssin ulkopuolista ymmärrystä ja harrastuneisuutta, joten tässä ehkä tehdään myös hieman oletuksia raporttia lukevan kyvykkyydestä.
 
 
 
